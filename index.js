@@ -82,8 +82,8 @@
     document.getElementById("controls").addEventListener('click', e=>{
       if(e.target && e.target.className === "button"){
 
-      } */
-    })
+      }
+    })*/
 
 
 })();
